@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wbsl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESlint config for Wrecking Ball Studio + Labs",
   "main": "index.js",
   "peerDependencies": {
