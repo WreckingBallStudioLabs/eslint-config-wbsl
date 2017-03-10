@@ -8,13 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/wbm/eslint-config-wbsl.git"
+    "url": "https://github.com/WreckingBallStudioLabs/eslint-config-wbsl"
   },
   "keywords": [
     "eslint",
-    "config"
+    "config",
+    "wbsl",
+    "wrecking ball"
   ],
   "author": "Justin Schroeder <jschroeder@getwrecked.com> (http://getwrecked.com)",
-  "license": "Apache-2.0",
-  "homepage": "https://bitbucket.org/wbm/eslint-config-wbsl#readme"
+  "license": "MIT",
+  "homepage": "https://github.com/WreckingBallStudioLabs/eslint-config-wbsl#readme"
 }
