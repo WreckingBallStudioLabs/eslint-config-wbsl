@@ -22,4 +22,4 @@ Once the `eslint-config-wbsl` package is installed, you can use it by specifying
 
 ## License
 
-Apache-2 © Wrecking Ball Studio + Labs
+MIT © Wrecking Ball Studio + Labs
